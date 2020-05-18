@@ -1,0 +1,21 @@
+AMI ID 
+ami-cfe4b2b0
+
+VPC ID 
+vpc-0633f2e6e8be9f727
+
+Security Group ID
+sg-0e8cb8c8af60eefd3
+
+Instance ID
+i-011fb11e76e1e9cec
+
+Allocation ID
+eipalloc-0e31dca5fe9615b32
+
+Public IP address
+52.21.107.148
+
+Association ID
+eipassoc-00eaccbf99e1c3960
+
