@@ -7,8 +7,8 @@ http.createServer(function (request, response) {
    // Content Type: text/plain
    response.writeHead(200, {'Content-Type': 'text/plain'})
 
-   // Send the response body as "It is working!"
-   response.end('It is working!\n')
+   // Send the response body as "It's working!"
+   response.end('It\'s working!\n')
 }).listen(3333)
 
 // Console will print the message
